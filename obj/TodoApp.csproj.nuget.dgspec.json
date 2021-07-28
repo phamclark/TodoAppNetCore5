@@ -89,6 +89,10 @@
               "target": "Package",
               "version": "[5.0.8, )"
             },
+            "Stimulsoft.Reports.Angular.NetCore": {
+              "target": "Package",
+              "version": "[2021.3.6, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
